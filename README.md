@@ -1,14 +1,14 @@
 # AWS_Devops
 30-Day AWS &amp; DevOps Learning Journey covering core AWS services, hands-on projects, CI/CD pipelines, infrastructure automation, and real-world cloud deployment practices.
 
-🚀 30 Days of AWS & DevOps – Hands-on Learning Journey
+#🚀 30 Days of AWS & DevOps – Hands-on Learning Journey
 📌 Project Overview
 
 This repository documents my 30-day hands-on learning journey on AWS and DevOps, covering core cloud concepts, infrastructure design, automation, CI/CD pipelines, containerization, monitoring, and real-world deployment practices.
 
 The goal of this project is to gain practical experience in building secure, scalable, and production-ready cloud infrastructure using AWS services and DevOps tools.
 
-🧠 Key Learning Areas
+#🧠 Key Learning Areas
 
 Cloud Fundamentals (Public vs Private Cloud)
 
@@ -34,7 +34,7 @@ Load Balancing & High Availability Architecture
 
 Cloud Migration Strategies & AWS Best Practices
 
-🛠️ Hands-on Projects Included
+#🛠️ Hands-on Projects Included
 
 ✅ Deploy Jenkins on EC2
 ✅ Secure VPC with Public & Private Subnets
@@ -49,7 +49,7 @@ Cloud Migration Strategies & AWS Best Practices
 ✅ Load Balancer Implementation
 ✅ Final AWS Project with RDS Integration
 
-🎯 Skills Demonstrated
+#🎯 Skills Demonstrated
 
 AWS Cloud Architecture
 
@@ -67,7 +67,7 @@ Container & Kubernetes Basics
 
 Monitoring and Performance Optimization
 
-💡 Purpose
+#💡 Purpose
 
 This repository serves as:
 
