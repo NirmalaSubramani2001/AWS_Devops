@@ -1,5 +1,5 @@
-# AWS_Devops
-     30-Day AWS &amp; DevOps Learning Journey covering core AWS services, hands-on projects, CI/CD pipelines, infrastructure automation, and real-world cloud deployment practices.
+ **AWS_Devops**
+     30-Day AWS and DevOps Learning Journey covering core AWS services, hands-on projects, CI/CD pipelines, infrastructure automation, and real-world cloud deployment practices.
 
 🚀 **30 Days of AWS & DevOps – Hands-on Learning Journey**
 
@@ -76,7 +76,7 @@ This repository serves as:
 
      🧪 Hands-on cloud practice portfolio
 
-     💼 Interview-ready DevOps/AWS project reference
+     💼 AWS project reference
 
      🔧 Tools & Services Used
 
