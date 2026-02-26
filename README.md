@@ -1,40 +1,41 @@
 # AWS_Devops
-30-Day AWS &amp; DevOps Learning Journey covering core AWS services, hands-on projects, CI/CD pipelines, infrastructure automation, and real-world cloud deployment practices.
+     30-Day AWS &amp; DevOps Learning Journey covering core AWS services, hands-on projects, CI/CD pipelines, infrastructure automation, and real-world cloud deployment practices.
 
-#🚀 30 Days of AWS & DevOps – Hands-on Learning Journey
-📌 Project Overview
+🚀 **30 Days of AWS & DevOps – Hands-on Learning Journey**
 
-This repository documents my 30-day hands-on learning journey on AWS and DevOps, covering core cloud concepts, infrastructure design, automation, CI/CD pipelines, containerization, monitoring, and real-world deployment practices.
+📌 **Project Overview**
+
+         This repository documents my 30-day hands-on learning journey on AWS and DevOps, covering core cloud concepts, infrastructure design, automation, CI/CD pipelines, containerization, monitoring, and real-world deployment practices.
 
 The goal of this project is to gain practical experience in building secure, scalable, and production-ready cloud infrastructure using AWS services and DevOps tools.
 
-#🧠 Key Learning Areas
+🧠 **Key Learning Areas**
 
-Cloud Fundamentals (Public vs Private Cloud)
+    Cloud Fundamentals (Public vs Private Cloud)
 
-AWS Core Services: IAM, EC2, VPC, S3
+    AWS Core Services: IAM, EC2, VPC, S3
 
-Networking & Security Best Practices
+    Networking & Security Best Practices
 
-Infrastructure as Code (CloudFormation & Terraform)
+    Infrastructure as Code (CloudFormation & Terraform)
 
-CI/CD using CodeCommit, CodeBuild, CodePipeline & CodeDeploy
+    CI/CD using CodeCommit, CodeBuild, CodePipeline & CodeDeploy
 
-Monitoring & Logging with CloudWatch
+    Monitoring & Logging with CloudWatch
 
-Serverless Architecture using Lambda & EventBridge
+    Serverless Architecture using Lambda & EventBridge
 
-Containerization using Docker, ECR, ECS & EKS
+    Containerization using Docker, ECR, ECS & EKS
 
-CDN & Static Website Hosting with CloudFront
+    CDN & Static Website Hosting with CloudFront
 
-Cloud Auditing using CloudTrail & AWS Config
+    Cloud Auditing using CloudTrail & AWS Config
 
-Load Balancing & High Availability Architecture
+    Load Balancing & High Availability Architecture
 
-Cloud Migration Strategies & AWS Best Practices
+    Cloud Migration Strategies & AWS Best Practices
 
-#🛠️ Hands-on Projects Included
+🛠️ **Hands-on Projects Included**
 
 ✅ Deploy Jenkins on EC2
 ✅ Secure VPC with Public & Private Subnets
@@ -49,38 +50,38 @@ Cloud Migration Strategies & AWS Best Practices
 ✅ Load Balancer Implementation
 ✅ Final AWS Project with RDS Integration
 
-#🎯 Skills Demonstrated
+🎯 **Skills Demonstrated**
 
-AWS Cloud Architecture
+    AWS Cloud Architecture
 
-Linux & Networking Fundamentals
+    Linux & Networking Fundamentals
 
-DevOps Practices & Automation
+    DevOps Practices & Automation
 
-Infrastructure Provisioning
+    Infrastructure Provisioning
 
-Security & Access Management
+    Security & Access Management
 
-CI/CD Pipeline Design
+    CI/CD Pipeline Design
+  
+    Container & Kubernetes Basics
 
-Container & Kubernetes Basics
+    Monitoring and Performance Optimization
 
-Monitoring and Performance Optimization
-
-#💡 Purpose
+💡 **Purpose**
 
 This repository serves as:
 
-📘 Personal learning documentation
+     📘 Personal learning documentation
 
-🧪 Hands-on cloud practice portfolio
+     🧪 Hands-on cloud practice portfolio
 
-💼 Interview-ready DevOps/AWS project reference
+     💼 Interview-ready DevOps/AWS project reference
 
-🔧 Tools & Services Used
+     🔧 Tools & Services Used
 
-AWS • Linux • Git • Docker • Terraform • CloudFormation • Jenkins • CI/CD • Kubernetes • Monitoring Tools
+  AWS • Linux • Git • Docker • Terraform • CloudFormation • Jenkins • CI/CD • Kubernetes • Monitoring Tools
 
-📈 Outcome
+📈 **Outcome**
 
-By completing this roadmap, I developed practical experience in designing and deploying cloud infrastructure aligned with real-world DevOps workflows and AWS best practices.
+       By completing this roadmap, I developed practical experience in designing and deploying cloud infrastructure aligned with real-world DevOps workflows and AWS best practices.
